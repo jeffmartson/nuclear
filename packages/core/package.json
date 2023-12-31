@@ -35,7 +35,7 @@
     "isomorphic-fetch": "^2.2.1",
     "jest": "^27.5.1",
     "md5": "^2.2.1",
-    "megalodon": "^3.6.1",
+    "megalodon": "^9.1.2",
     "nodebrainz": "^2.1.1",
     "react": "16.14.0",
     "react-dom": "16.14.0",
